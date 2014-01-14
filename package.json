@@ -36,7 +36,8 @@
     "grunt": "~0.4.2"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "ember"
   ],
   "dependencies": {
     "defeatureify": "~0.2.0"
